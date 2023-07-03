@@ -19,7 +19,7 @@ The process for solving the exercises is as follows:
 
 - First, try to solve the exercise on your own (without peaking into the solution!). You are allowed Google git commands, if you don’t remember them or if you need to read up on them.
 
-- Once you are confident that you have got the right solution, copy the terminal commands you used in your last try and paste them in the readme file of the “Alvin Git Exercise Solutions” repository you have created. All Solutions to all exercises should be pasted into the readme file of this repository. Even when an exercise requires you to create a github repository for the purposes of solving the exercise, nevertheless always use the “Gym Git Exercise Solutions” readme file to paste your terminal history into.
+- Once you are confident that you have got the right solution, copy the terminal commands you used in your last try and paste them in the readme file of the “Alvin Git Exercise Solutions” repository you have created. All Solutions to all exercises should be pasted into the readme file of this repository. Even when an exercise requires you to create a github repository for the purposes of solving the exercise, nevertheless always use the “Alvin Git Exercise Solutions” readme file to paste your terminal history into.
 - Those of you who are going through the  training in self-learning:
     - paste the link to the “Alvin Git Exercise Solutions” Github repository as well as the link to the Github repository you created for this exercise
 
@@ -144,14 +144,14 @@ Exercise 2:
 
 # Bundle 6
 
-> In this exercise, you will be working on the copy of the `git-cafe-exercise` that you have forked on your account in the previous exercise.
+> In this exercise, you will be working on the copy of the `Git-mentorship-program` that you have forked on your account in the previous exercise.
 
 Keep in mind that each exercise must be done on a different branch
 > 
 
 Exercise1:
 
-- On the `git-cafe-exercise` repo create a new feature branch
+- On the `Git-mentorship-program` repo create a new feature branch
 - Add new changes related to a new page named `Menu`
 - Afterward, raise a new PR
 - Request review
@@ -165,7 +165,7 @@ Exercise2:
 
 Exercise 3:
 
-- On the `git-cafe-exercise` repo, there is a small hotfix on the contact page
+- On the `Git-mentorship-program` repo, there is a small hotfix on the contact page
 - Change the telephone on the `index-4.html` page from `+1 800 603 6035` to `+1 800 659 6035`
 
 Exercise 4:
