@@ -22,8 +22,6 @@ The process for solving the exercises is as follows:
 - Once you are confident that you have got the right solution, copy the terminal commands you used in your last try and paste them in the readme file of the “Alvin Git Exercise Solutions” repository you have created. All Solutions to all exercises should be pasted into the readme file of this repository. Even when an exercise requires you to create a github repository for the purposes of solving the exercise, nevertheless always use the “Gym Git Exercise Solutions” readme file to paste your terminal history into.
 - Those of you who are going through the  training in self-learning:
     - paste the link to the “Alvin Git Exercise Solutions” Github repository as well as the link to the Github repository you created for this exercise
-- Those of you who are in the tutored preparatory training:
-    - Insert the link to the “Gym Git Exercise Solutions” Github repository as well as the link to the Github repository you created for this exercise (if there was such a repository in this exercise) into the appropriate Trello card on the code-review Trello board your coach has created for you. There are no peer code reviews for the git exercises.
 
 # **Bundle 1**
 
